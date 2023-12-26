@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Lottory\Lottory\bin\Debug\Lottory.exe.config
+C:\Users\ASUS\source\repos\Lottory\Lottory\bin\Debug\Lottory.exe
+C:\Users\ASUS\source\repos\Lottory\Lottory\bin\Debug\Lottory.pdb
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.Form1.resources
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.exe
+C:\Users\ASUS\source\repos\Lottory\Lottory\obj\Debug\Lottory.pdb
